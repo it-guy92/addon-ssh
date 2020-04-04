@@ -3,7 +3,7 @@
 Port 22
 AddressFamily any
 TCPKeepAlive no
-ClientAliveInterval 600
+ClientAliveInterval 25
 ClientAliveCountMax 3
 UseDNS yes
 
